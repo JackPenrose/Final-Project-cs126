@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\src\HttpClient.cpp">
+      <Filter>addons\ofxCurl-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\jsoncpp\src\jsoncpp.cpp">
+      <Filter>addons\ofxCurl-master\libs\jsoncpp\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\core\ofxDatGuiComponent.cpp">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\libs\ofxSmartFont\ofxSmartFont.cpp">
+      <Filter>addons\ofxDatGui-master\src\libs\ofxSmartFont</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\ofxDatGui.cpp">
+      <Filter>addons\ofxDatGui-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxJSON-master\src\ofxJSONElement.cpp">
+      <Filter>addons\ofxJSON-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxJSON-master\libs\jsoncpp\src\jsoncpp.cpp">
+      <Filter>addons\ofxJSON-master\libs\jsoncpp\src</Filter>
+    </ClCompile>
+    <ClCompile Include="tests.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master">
+      <UniqueIdentifier>{1D0AA762-47DF-FB2A-28B4-6552}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\src">
+      <UniqueIdentifier>{4ACD90AC-4D8C-C524-6655-E6DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\libs">
+      <UniqueIdentifier>{AB767279-AE8A-105A-E0A5-B505}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\libs\jsoncpp">
+      <UniqueIdentifier>{95D1C7B3-A8CA-C893-D9E6-512C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\libs\jsoncpp\include">
+      <UniqueIdentifier>{D9A76E07-A654-0D56-016E-9FD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\libs\jsoncpp\include\jsoncpp">
+      <UniqueIdentifier>{295B9758-4EC7-304B-F46F-2ED3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\libs\jsoncpp\src">
+      <UniqueIdentifier>{84B02225-052E-CF89-7CF7-866C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\libs\libcurl">
+      <UniqueIdentifier>{9F559534-1D37-A0C9-BDA9-ACB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\libs\libcurl\include">
+      <UniqueIdentifier>{53357687-A0BE-CDDC-EAB7-4001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxCurl-master\libs\libcurl\include\curl">
+      <UniqueIdentifier>{6EA7FEDC-2CBC-F46D-4BC5-4167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master">
+      <UniqueIdentifier>{52F1B5B1-E570-C440-C28F-7459}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src">
+      <UniqueIdentifier>{04845DB7-EFDA-40DE-18EA-4E5F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\components">
+      <UniqueIdentifier>{1A9A0351-D85F-C1F3-41EA-E013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\core">
+      <UniqueIdentifier>{C78D02F9-8F59-C124-15F6-19C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\libs">
+      <UniqueIdentifier>{0F1E04DF-94AA-65C6-4767-6FF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\libs\ofxSmartFont">
+      <UniqueIdentifier>{B5EA9CFF-665B-EC02-55D4-B182}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui-master\src\themes">
+      <UniqueIdentifier>{BF9E2353-5CF3-048A-5AFE-2C54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON-master">
+      <UniqueIdentifier>{EC8814B8-9630-4FB5-38ED-CAAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON-master\src">
+      <UniqueIdentifier>{C7A086C0-22E5-4A70-87F1-73F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON-master\libs">
+      <UniqueIdentifier>{B637EBF1-4422-2CC1-6991-33CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON-master\libs\jsoncpp">
+      <UniqueIdentifier>{2DB2A52E-8F91-8A37-C94D-7981}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON-master\libs\jsoncpp\include">
+      <UniqueIdentifier>{8072CE4B-5B27-3353-320C-3B04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON-master\libs\jsoncpp\include\json">
+      <UniqueIdentifier>{C82BEC39-6AFA-3790-2293-AE90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON-master\libs\jsoncpp\src">
+      <UniqueIdentifier>{133D470F-C0AC-6264-BF9D-89CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\src\HttpClient.h">
+      <Filter>addons\ofxCurl-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\jsoncpp\include\jsoncpp\json-forwards.h">
+      <Filter>addons\ofxCurl-master\libs\jsoncpp\include\jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\jsoncpp\include\jsoncpp\json.h">
+      <Filter>addons\ofxCurl-master\libs\jsoncpp\include\jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\curl.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\curlbuild.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\curlrules.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\curlver.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\easy.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\mprintf.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\multi.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\stdcheaders.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxCurl-master\libs\libcurl\include\curl\typecheck-gcc.h">
+      <Filter>addons\ofxCurl-master\libs\libcurl\include\curl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGui2dPad.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiButton.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiColorPicker.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiControls.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiFRM.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiGroups.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiLabel.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiMatrix.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiScrollView.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiSlider.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiTextInput.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiTextInputField.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\components\ofxDatGuiTimeGraph.h">
+      <Filter>addons\ofxDatGui-master\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\core\ofxDatGuiComponent.h">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\core\ofxDatGuiConstants.h">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\core\ofxDatGuiEvents.h">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\core\ofxDatGuiIntObject.h">
+      <Filter>addons\ofxDatGui-master\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\libs\ofxSmartFont\ofxSmartFont.h">
+      <Filter>addons\ofxDatGui-master\src\libs\ofxSmartFont</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\ofxDatGui.h">
+      <Filter>addons\ofxDatGui-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\themes\ofxDatGuiTheme.h">
+      <Filter>addons\ofxDatGui-master\src\themes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxDatGui-master\src\themes\ofxDatGuiThemes.h">
+      <Filter>addons\ofxDatGui-master\src\themes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxJSON-master\src\ofxJSON.h">
+      <Filter>addons\ofxJSON-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxJSON-master\src\ofxJSONElement.h">
+      <Filter>addons\ofxJSON-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxJSON-master\libs\jsoncpp\include\json\json-forwards.h">
+      <Filter>addons\ofxJSON-master\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\of_v0.10.1_vs2017_release\addons\ofxJSON-master\libs\jsoncpp\include\json\json.h">
+      <Filter>addons\ofxJSON-master\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="catch.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>
